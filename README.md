@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark Alfie</h1>
-<h3 align="center">Software Developer from Philippines</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=markalfiem&label=Profile%20views&color=0e75b6&style=flat" alt="markalfiem" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markalfiem" alt="markalfiem" /></a> </p>
+<h3 align="center">Software Developer from Philippines Going Full Stack!</h3>
 
 - 🔭 I’m currently working on **HTGT?**
 
